@@ -9,3 +9,4 @@
 9- git init ; para iniciar el repositorio desde la carpeta ejercicios.
 10- git add . ; para agregar todo al repositorio
 11- git commit "Version inicial" ; para nombrar el commit.
+12- git commit -m "Agrega solución primer ejercicio" ; para crear el nuevo commit.
